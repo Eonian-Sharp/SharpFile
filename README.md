@@ -1,4 +1,5 @@
 # SharpFile
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a73ef5ca-1cec-4a70-9431-640c91e8b17f" />
 基于Rust快速检测文件类型，支持5w量文件的快速检测。
 
 ## 使用方法
