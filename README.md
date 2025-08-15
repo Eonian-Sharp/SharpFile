@@ -6,7 +6,8 @@
 ## 使用方法
 将文件或文件夹拖入工具即可。
 点击详情即可复制具体信息。
-<img width="1255" height="481" alt="image" src="https://github.com/user-attachments/assets/cf75a37d-97fe-4148-914f-a375c1e9a249" />
+<img width="1263" height="480" alt="image" src="https://github.com/user-attachments/assets/524d667c-72f4-4080-9d98-1015cf474681" />
+
 
 
 ## 支持导出格式
